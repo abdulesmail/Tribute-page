@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,200;0,300;1,100&family=Roboto:ital,wght@1,300&display=swap');
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 span{
+  border-bottom: solid black 3px;
+}
+
+h1{
+  font-size:96px;
+  font-weight:600;
+  text-align: center;
+  padding: 30px 30px 0 30px;
+  
+}
+li span {
+  font-weight: bold;
+}
+div#header{
+  text-align: center;
+}
+
+div#photo{
+  text-align: center;
+  padding: 50px;
+  background-color: #EADDD0;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+img{
+  border-radius: 10px
+}
+
+img{
+  border: 3px solid #6B553F;
+}
+
+footer{
+  text-align: centers;
+}
+
+ul{
+  padding-left: 500px;
+  padding-right: 500px;
+}
+h2{
+  text-align: center;
+}
+
+p.quote{
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 50px;
+  font-weight: bold;
+  font-size: 23px;
+}
+
+p.prime{
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  color:  #EADDD0;
+  font-weight: bold;
+}
+
+p#footer{
+  text-align: center;
+  background-color: #EADDD0;
+  font-weight: bold;
+  padding-left: 300px;
+  padding-right: 300px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
